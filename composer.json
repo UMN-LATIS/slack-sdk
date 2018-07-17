@@ -1,5 +1,5 @@
 {
-    "name": "umnlatis/slack-sdk",
+    "name": "corykeane/slack-sdk",
     "description": "Slack SDK for PHP",
     "license": "MIT",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "UMNLatis\\Slack\\": "src/"
+            "CoryKeane\\Slack\\": "src/"
         }
     },
     "minimum-stability": "stable"
