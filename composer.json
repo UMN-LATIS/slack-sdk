@@ -1,5 +1,5 @@
 {
-    "name": "umn-latis/slack-sdk",
+    "name": "umnlatis/slack-sdk",
     "description": "Slack SDK for PHP",
     "license": "MIT",
     "require": {
