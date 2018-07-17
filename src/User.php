@@ -21,7 +21,7 @@ class User {
 
     public function handle()
     {
-        return $this->data['name'];
+        return $this->data['profile']['display_name'];
     }
 
     public function isDeleted()
